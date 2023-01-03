@@ -7,5 +7,7 @@ npm install
 composer install
 # run development version
 ./run.sh
+# run unit tests
+./vendor/bin/phpunit tests
 ```
 navigate to [localhost:8000](http://localhost:8000/)
